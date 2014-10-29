@@ -1,6 +1,8 @@
 /*
 * @turlapatykaushik
 * github url : github.com/turlapatykaushik
+
+* problem description : implementation of binary search on a list in python
 */
 
 def binarysearch(youritem,yourlist):
