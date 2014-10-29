@@ -1,6 +1,8 @@
 /*
 * @turlapatykaushik
 * github url : github.com/turlapatykaushik
+
+* problem description : removing the elements which are repeated in a list and making a new list
 */
 
 def remove_duplicate(yourlist):
