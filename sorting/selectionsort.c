@@ -1,6 +1,8 @@
-//Name : T.Kaushik
-//Sorting : Selection Sort
-//Roll no : IMT2013054
+/*
+* @turlapatykaushik
+* github url : github.com/turlapatykaushik
+*/
+
 #include<stdio.h>
 void main()
 {
