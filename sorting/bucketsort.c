@@ -1,6 +1,8 @@
-//Name : T.Kaushik
-//Sorting : Bucket Sort
-//Roll no : IMT2013054
+/*
+* @turlapatykaushik
+* github url : github.com/turlapatykaushik
+*/
+
 #include <stdio.h>
 #include<stdlib.h>
 typedef struct nodeobject
