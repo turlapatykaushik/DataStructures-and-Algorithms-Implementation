@@ -1,6 +1,8 @@
-//Name : T.Kaushik
-//Sorting : Quick Sort
-//Roll no : IMT2013054
+/*
+* @turlapatykaushik
+* github url : github.com/turlapatykaushik
+*/
+
 #include<stdio.h>
 void quicksort(long long int [], int , int);
 int main()
