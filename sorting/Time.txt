@@ -1,0 +1,41 @@
+1.Bubble Sort
+real	1m37.065s
+user	1m32.418s
+sys	0m0.760s
+
+2.Selection Sort
+real	0m49.903s
+user	0m45.151s
+sys	0m0.616s
+
+3.Insertion Sort
+real	0m26.244s
+user	0m21.829s
+sys	0m0.704s
+
+4.Shell Sort
+real	0m4.329s
+user	0m0.212s
+sys	0m0.500s
+
+5.Merge Sort
+real	0m21.694s
+user	0m0.896s
+sys	0m2.704s
+
+6.Quick Sort
+real	0m19.360s
+user	0m0.752s
+sys	0m2.856s
+
+7.Radix Sort
+real	0m23.659s
+user	0m0.920s
+sys	0m2.852s
+
+8.Bucket Sort
+real	0m10.894s
+user	0m6.464s
+sys	0m0.808s
+
+
