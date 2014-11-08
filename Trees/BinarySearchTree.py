@@ -19,20 +19,40 @@ class BinarySearchTree(object):
         self.len = 0
 
     def __len__(self):
-       
+        return self.len
+    
     def is_empty(self):
-
-
-    def _inorder(self, node, values):
-        
+        return self.root = None
 
     def _preorder(self, node, values):
-        
-
-    def _postorder(self, node, values):
-        
+        if node! = None:
+            values.append(node.value)
+            self._preorder(node.left, values)
+            self._preorder(node.right, values)
+            
+    def _inorder(self, node, values):
+        if node! = None:
+            self._inorder(node.left, values)
+            values.append(node.value)
+            self._inorder(node.right, values)
+                   
+    def _postorder(self, node, values):  
+        if node! = None:
+            self._postorder(node.left, values) 
+            self._postorder(node.right, values)
+            values.append(node.value)
             
     def values(self, reverse = False, order="in"):
+        values = []
+        if order == "in":
+            self._inorder(self.root, values)
+        elif order == "pre":
+            self._preorder(self.root, values)
+        else:
+            self._postorder(self.root, values)
+        if reverse:
+            return values[::-1]
+        return values
         
 
     def _search(self, root, value):
