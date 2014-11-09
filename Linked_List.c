@@ -1,6 +1,8 @@
 /*
  * @turlapatykaushik
  * github url: github.com/turlapatykaushik
+
+ * problem description : Linked List psuedocode
  
 */
 
